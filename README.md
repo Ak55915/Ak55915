@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-kadam/"><img src="https://img.shields.io/badge/-Akash%20Kadam-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:akash.kadam@example.com"><img src="https://img.shields.io/badge/-akash.kadam%40example.com-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
+  <a href="mailto:akashkadam@7693.com"><img src="https://img.shields.io/badge/-akash.kadam%40example.com-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ak55915"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
 </p>
 
 ---
